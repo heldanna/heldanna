@@ -1,4 +1,4 @@
-# Hi there 👋 I'm 𝓗𝓮𝓵𝓭𝓪𝓷𝓷𝓪
+# Hi there 👋 I'm 𝓗𝓮𝓵𝓭𝓪𝓷𝓷𝓪 ❤️
 
 ## About Me:
 - Member of various tech/eng communities:
@@ -34,9 +34,9 @@
 | Feb - Apr 2023 | US Department of State | Policy | Arlington, VA |
 
 ## Other employment, in reverse:
-| **Time period** | **Company** | **Role** | **Location** |
+| **Time period** | **Company** | **Role** |
 |---|---|---|---|
-| Jan - May 2025 | Handshake | Content Creator | Remote |
-| Sep - Dec 2024, Sep - Dec 2025 | Teach for America | Ignite Fellow | Remote |
-| Jun - Jul 2024 | National Science Foundation | Research Experience for Undergraduates | Remote |
-| May - Aug 2024 | Girls Who Code | Summer Immersion Program TA | Remote |
+| Jan - May 2025 | Handshake | Content Creator |
+| Sep - Dec 2024, Sep - Dec 2025 | Teach for America | Ignite Fellow |
+| Jun - Jul 2024 | National Science Foundation | Research Experience for Undergraduates |
+| May - Aug 2024 | Girls Who Code | Summer Immersion Program TA |
