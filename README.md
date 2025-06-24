@@ -36,7 +36,7 @@
 ## Other employment, in reverse:
 | **Time period** | **Company** | **Role** |
 |---|---|---|
+| Sep - Dec 2025, Sep - Dec 2024 | Teach for America | Ignite Fellow |
 | Jan - May 2025 | Handshake | Content Creator |
-| Sep - Dec 2024, Sep - Dec 2025 | Teach for America | Ignite Fellow |
 | Jun - Jul 2024 | National Science Foundation | Research Experience for Undergraduates |
 | May - Aug 2024 | Girls Who Code | Summer Immersion Program TA |
