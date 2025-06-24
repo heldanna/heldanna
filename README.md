@@ -7,7 +7,7 @@ const heldannaSolomon = {
   orgs: [MLT, ColorStack, RTC, Girl Security, NSBE, SWE],
 }
 ```
-- Scholarship and awards I've received:
+- Scholarships and awards I've received:
     - **Benacquisto** Scholarship (Aug 2021-May 2026)
     - Major League Hacking x Fidelity **Best DEI Hack** @ ShellHacks 2024
     - innovateHer.io x GHC Scholarship (Oct 2024)
