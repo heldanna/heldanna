@@ -3,13 +3,13 @@
 ```javascript
 const heldannaSolomon = {
   pronouns: "she" | "her" | "hers",
-  orgs: [MLT, ColorStack, RTC, Girl Security, NSBE, SWE],
+  orgs: [MLT, ColorStack, RTC, Girl Security, NSBE, Out in Tech, SWE],
 }
 ```
 - Scholarships and awards I've received:
     - **Benacquisto** Scholarship (Aug 2021-May 2026)
     - Major League Hacking x Fidelity **Best DEI Hack** @ ShellHacks 2024
-    - innovateHer.io x GHC Scholarship (Oct 2024)
+    - innovateHer.io x **GHC** Scholarship (Oct 2024)
     - UCF u-LEAD **Social Change** Scholarship (Nov 2023)
     - **National Merit** Scholar
 - Selective programs I've been chosen for include:
@@ -18,7 +18,7 @@ const heldannaSolomon = {
     - **Duke** STAQ Quantum Ideas Summer School (Jun 2023)
     - **NASA** Proposal Writing and Evaluation Experience (May-Aug 2022)
     - **Google** Computer Science Summer Institute (Jul-Aug 2021)
-    - National Security Language Initiative for Youth (Jun-Aug 2021)
+    - **National Security Language Initiative** for Youth (Jun-Aug 2021)
 
 ## Internship timeline, in reverse:
 | **Time period** | **Company** | **Role** | **Location** |
