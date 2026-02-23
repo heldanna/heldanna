@@ -23,7 +23,7 @@ const heldannaSolomon = {
 ## Internship timeline, in reverse:
 | **Time period** | **Company** | **Role** | **Location** |
 |---|---|---|---|
-| May 2025 - present | FICO | Cybersecurity | Remote |
+| May - Aug 2025 | FICO | Cybersecurity | Remote |
 | Feb - Jun 2025 | LLNL | Computing | Remote |
 | Jan - Apr 2025 | Geotab | Public Sector Advisory | Remote |
 | Jan - Apr 2024 | Norfolk Southern | IT Network Systems | Atlanta, GA |
@@ -34,7 +34,7 @@ const heldannaSolomon = {
 ## Other employment, in reverse:
 | **Time period** | **Company** | **Role** |
 |---|---|---|
-| Fall 2025, Sep - Dec 2024 | Teach for America | Ignite Fellow |
+| Sep - Dec 2025, Sep - Dec 2024 | Teach for America | Ignite Fellow |
 | Jan - May 2025 | Handshake | Content Creator |
 | Jun - Jul 2024 | National Science Foundation | Research Experience for Undergraduates |
 | May - Aug 2024 | Girls Who Code | Summer Immersion Program TA |
