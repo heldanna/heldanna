@@ -13,6 +13,7 @@ const heldannaSolomon = {
     - UCF u-LEAD **Social Change** Scholarship (Nov 2023)
     - **National Merit** Scholar
 - Selective programs I've been chosen for include:
+    - **NobleReach** Scholar (June 2026-present)
     - **hackNY** Fellow (May-Aug 2025)
     - **Out for Undergrad** Digital Conference (Oct 2024)
     - **Duke** STAQ Quantum Ideas Summer School (Jun 2023)
@@ -34,7 +35,7 @@ const heldannaSolomon = {
 ## Other employment, in reverse:
 | **Time period** | **Company** | **Role** |
 |---|---|---|
-| Sep - Dec 2025, Sep - Dec 2024 | Teach for America | Ignite Fellow |
+| Sep - Nov 2026, Sep - Dec 2025, Sep - Dec 2024 | Teach for America | Ignite Fellow |
 | Jan - May 2025 | Handshake | Content Creator |
 | Jun - Jul 2024 | National Science Foundation | Research Experience for Undergraduates |
 | May - Aug 2024 | Girls Who Code | Summer Immersion Program TA |
